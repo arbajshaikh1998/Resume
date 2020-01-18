@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+    
+}
+.outer{
+      margin: 0px auto;
+        width: 700px;
+    height: 800px;
+    border: 0px solid black;
+    
+}
+.outer h1{
+    text-align: center;
+}
+p{
+    size: 20px;
+    margin-left: 20px;
+}
+.border{
+    border: 1px solid lightblue;
+    font-weight: bold;
+    background-color: lightpink;
+    
+}
+ul{
+    margin-left: 50px;
+  
+}
+h2{
+    float:right;
+}
